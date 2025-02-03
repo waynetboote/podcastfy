@@ -8,7 +8,7 @@ An Open Source API alternative to NotebookLM's podcast feature: Transforming Mul
 
 
 
-https://github.com/user-attachments/assets/5d42c106-aabe-44c1-8498-e9c53545ba40
+
 
 
 
