@@ -1,0 +1,4 @@
+# Exclude documentation, tests, and example files
+recursive-exclude docs *
+recursive-exclude tests *
+recursive-exclude examples *
