@@ -2,3 +2,4 @@
 recursive-exclude docs *
 recursive-exclude tests *
 recursive-exclude examples *
+recursive-exclude docs *.mp4
